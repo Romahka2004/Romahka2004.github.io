@@ -1,0 +1,19 @@
+h1{
+    cursor: pointer;
+    color: blue;
+    font-size: 48px;
+}
+p{
+    white-space: unset;
+    color: red;
+    font-size: 25px;
+    
+}
+header{
+    width: 100%;
+    background: yellowgreen;
+}
+body{
+    width: 100%;
+    background:whitesmoke ;
+}
